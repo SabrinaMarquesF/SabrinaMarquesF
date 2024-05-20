@@ -35,6 +35,6 @@ Ah, também sou amante da cultura geek, animes e jogos :)
 
 
 
-## Atividade
+## GitHub Stats
 
 ![Sabrina Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaMarquesF&show_icons=true&theme=dark)
