@@ -33,10 +33,8 @@ Ah, também sou amante da cultura geek, animes e jogos :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaMarquesF&layout=compact)
 
-![snake gif](https://[github.com/rafaellsp](https://github.com/SabrinaMarquesF)/SabrinaMarquesF/blob/output/github-contribution-grid-snake.svg)
-
-
-
 ## GitHub Stats
 
 ![Sabrina Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaMarquesF&show_icons=true&theme=dark)
+
+![snake gif](https://[github.com/SabrinaMarquesF](https://github.com/SabrinaMarquesF)/SabrinaMarquesF/blob/output/github-contribution-grid-snake.svg)
