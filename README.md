@@ -34,11 +34,9 @@ Ah, também sou amante da cultura geek, animes e jogos :)
 
 💡Projetos publicados no  [![portfolio](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sxbrinamf.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/0541f7a2-56ed-49f7-8152-3bf8452a0c4a/deploy-status)](https://app.netlify.com/sites/sxbrinamf/deploys) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaMarquesF&layout=compact)
-
 ## GitHub Stats
 
-![Sabrina Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaMarquesF&show_icons=true&theme=dark)
+![Sabrina Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaMarquesF&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaMarquesF&layout=compact)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabrinaMarquesF/SabrinaMarquesF/output/github-contribution-grid-snake-dark.svg">
