@@ -32,7 +32,7 @@ Ah, também sou amante da cultura geek, animes e jogos :)
 
 [![portfolio](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://sxbrinamf.netlify.app)
 
-💡Projetos publicados no  [![portfolio](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sxbrinamf.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/0541f7a2-56ed-49f7-8152-3bf8452a0c4a/deploy-status)](https://app.netlify.com/sites/sxbrinamf/deploys) 
+💡Projetos publicados no  [![portfolio](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sxbrinamf.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/93258e1c-2e8a-4db8-a08b-f379930afe09/deploy-status)](https://app.netlify.com/sites/sxbrinamf/deploys)
 
 ## GitHub Stats
 
