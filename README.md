@@ -8,6 +8,8 @@
 Desenvolvedora frontend, backend. Analista e Desenvolvedora de sistemas em formação.
 Ah, também sou amante da cultura geek, animes e jogos :)
 
+💼 **Desenvolvedora Front-end na Cygana - Lotus Squad**
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sxbrinamf.netlify.app) 
@@ -20,14 +22,14 @@ Ah, também sou amante da cultura geek, animes e jogos :)
 [![portfolio](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://sxbrinamf.netlify.app)
 [![portfolio](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://sxbrinamf.netlify.app)
 [![portfolio](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://sxbrinamf.netlify.app)
-[![portfolio](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://sxbrinamf.netlify.app)
-[![portfolio](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://sxbrinamf.netlify.app)
-[![portfolio](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://sxbrinamf.netlify.app)
-
-## 📚 Aprendendo
 [![portfolio](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://sxbrinamf.netlify.app)
 [![portfolio](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://sxbrinamf.netlify.app)
 [![portfolio](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://sxbrinamf.netlify.app)
+
+## 📚 Aprendendo
+[![portfolio](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://sxbrinamf.netlify.app)
+[![portfolio](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://sxbrinamf.netlify.app)
+[![portfolio](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://sxbrinamf.netlify.app)
 
 ## GitHub Stats
 
