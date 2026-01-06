@@ -5,7 +5,7 @@
 
 
 ## 🚀 Sobre mim
-Desenvolvedora frontend, backend. Analista e Desenvolvedora de sistemas em formação.
+Desenvolvedora frontend, backend. Formada em Análise e Desenvolvimento de Sistemas.
 Ah, também sou amante da cultura geek, animes e jogos :)
 
 💼 **Desenvolvedora Front-end na Cygana - Lotus Squad**
