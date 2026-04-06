@@ -4,7 +4,9 @@
 Desenvolvedora **Frontend & Backend**, formada em **Análise e Desenvolvimento de Sistemas**.  
 Apaixonada por tecnologia, cultura geek, animes e jogos 🎮
 
-💼 **Desenvolvedora Front-end na Cygana - Lotus Squad**
+💼 Atualmente trabalhando como **Frontend Developer @ Cygana - Lotus Squad**
+
+[![Acessar empresa](https://img.shields.io/badge/Acessar%20empresa-Lotus%20Squad-FF2D20?style=for-the-badge&logo=web&logoColor=white)](https://www.lotussquad.com)
 
 ---
 
