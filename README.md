@@ -1,4 +1,4 @@
-# Olá, eu sou Sabrina! 🖖🏻
+# Olá, eu sou Sabrina! 🖖🏻 ![Profile views](https://komarev.com/ghpvc/?username=SabrinaMarquesF&color=ff2d20)
 
 ## 🚀 Sobre mim
 Desenvolvedora **Frontend & Backend**, formada em Análise e Desenvolvimento de Sistemas.  
