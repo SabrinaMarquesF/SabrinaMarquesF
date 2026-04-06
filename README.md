@@ -20,6 +20,9 @@ Ah, também sou amante da cultura geek, animes e jogos :)
 
 ## 🛠 Habilidades
 [![portfolio](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://sxbrinamf.netlify.app)
+
+            <i class="devicon-laravel-original-wordmark colored"></i>
+          
 [![portfolio](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://sxbrinamf.netlify.app)
 [![portfolio](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://sxbrinamf.netlify.app)
 [![portfolio](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://sxbrinamf.netlify.app)
