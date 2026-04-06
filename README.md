@@ -1,7 +1,7 @@
 # Olá, eu sou Sabrina! 🖖🏻 ![Profile views](https://komarev.com/ghpvc/?username=SabrinaMarquesF&color=ff2d20)
 
 ## 🚀 Sobre mim
-Desenvolvedora **Frontend & Backend**, formada em Análise e Desenvolvimento de Sistemas.  
+Desenvolvedora **Frontend & Backend**, formada em **Análise e Desenvolvimento de Sistemas**.  
 Apaixonada por tecnologia, cultura geek, animes e jogos 🎮
 
 💼 **Desenvolvedora Front-end na Cygana - Lotus Squad**
